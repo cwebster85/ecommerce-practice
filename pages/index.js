@@ -79,7 +79,6 @@ export default function Home() {
         {/* <div className="py-4"></div> */}
       </div>
       {/* <footer className="">navigation</footer> */}
-      <Footer />
     </Layout>
   );
 }
